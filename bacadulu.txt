@@ -1,0 +1,4 @@
+Programmer : safrudin
+Catatan    : Untuk masuk ke admin gunakan aja user dan passwordnya : user
+
+http://localhost/tokoonline/admin/
